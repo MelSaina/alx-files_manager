@@ -1,3 +1,6 @@
+/**
+ * Redis and Datbase status check and collections count
+ */
 import RedisClient from '../utils/redis';
 import DBClient from '../utils/db';
 
